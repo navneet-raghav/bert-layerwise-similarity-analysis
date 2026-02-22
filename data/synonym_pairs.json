@@ -1,0 +1,52 @@
+[
+  {
+    "sentence1": "The movie was good.",
+    "sentence2": "The movie was excellent.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "She is very happy.",
+    "sentence2": "She is very joyful.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "The dog is big.",
+    "sentence2": "The dog is large.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "He is smart.",
+    "sentence2": "He is intelligent.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "The task was simple.",
+    "sentence2": "The task was easy.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "She quickly finished the work.",
+    "sentence2": "She rapidly finished the work.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "The room was quiet.",
+    "sentence2": "The room was silent.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "He is angry.",
+    "sentence2": "He is furious.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "The car is fast.",
+    "sentence2": "The car is quick.",
+    "category": "synonym"
+  },
+  {
+    "sentence1": "She bought a small house.",
+    "sentence2": "She bought a tiny house.",
+    "category": "synonym"
+  }
+]

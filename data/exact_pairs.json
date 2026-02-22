@@ -1,0 +1,52 @@
+[
+{
+    "sentence1": "The movie was good.",
+    "sentence2": "The movie was good.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "She likes coffee.",
+    "sentence2": "She likes coffee.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "The dog is friendly.",
+    "sentence2": "The dog is friendly.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "He finished the work.",
+    "sentence2": "He finished the work.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "The weather is warm today.",
+    "sentence2": "The weather is warm today.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "She enjoys reading books.",
+    "sentence2": "She enjoys reading books.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "The test was easy.",
+    "sentence2": "The test was easy.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "They are ready for the trip.",
+    "sentence2": "They are ready for the trip.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "The food tastes delicious.",
+    "sentence2": "The food tastes delicious.",
+    "category": "exact"
+  },
+  {
+    "sentence1": "He understands the problem.",
+    "sentence2": "He understands the problem.",
+    "category": "exact"
+  }
+]

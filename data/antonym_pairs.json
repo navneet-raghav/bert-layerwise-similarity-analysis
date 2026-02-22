@@ -1,0 +1,52 @@
+[
+  {
+    "sentence1": "The movie was good.",
+    "sentence2": "The movie was bad.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "She is happy.",
+    "sentence2": "She is sad.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "The dog is big.",
+    "sentence2": "The dog is small.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "He is smart.",
+    "sentence2": "He is foolish.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "The task was easy.",
+    "sentence2": "The task was difficult.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "The room was quiet.",
+    "sentence2": "The room was noisy.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "He is strong.",
+    "sentence2": "He is weak.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "The weather is hot.",
+    "sentence2": "The weather is cold.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "She feels confident.",
+    "sentence2": "She feels insecure.",
+    "category": "antonym"
+  },
+  {
+    "sentence1": "The result was positive.",
+    "sentence2": "The result was negative.",
+    "category": "antonym"
+  }
+]

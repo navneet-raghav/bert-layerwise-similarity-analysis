@@ -132,7 +132,7 @@ This project is intended as a controlled probing analysis rather than a large-sc
 
 ## Project Structure
 
-bert_layerwise_negation/
+bert_layerwise_similarity_analysis/
 
 - data/  
   - exact_pairs.json  
